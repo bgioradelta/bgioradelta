@@ -65,5 +65,5 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=bgioradelta&color=blue" alt="Profile views" />
 </p>
