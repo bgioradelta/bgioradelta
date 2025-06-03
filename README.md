@@ -50,8 +50,8 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=react&locale=pt-br" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=react&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bgioradelta&show_icons=true&theme=react&locale=pt-br" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgioradelta&layout=compact&theme=react&langs_count=8" height="180"/>
 </p>
 
 ---
