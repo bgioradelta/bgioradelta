@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">👋 Olá! Eu sou o Leandro</h1>
+<h1 align="center">👋 Olá! Eu sou o Bruno</h1>
 
 <p align="center">
-  🎓 Formado em Análise e Desenvolvimento de Sistemas<br/>
-  👨‍💻 Desenvolvedor Full Stack com foco em ReactJS, Next.js e Node.js
+  🎓 Formado
+  👨‍💻 Desenvolvedor Full Stack Jr
 </p>
 
 ---
