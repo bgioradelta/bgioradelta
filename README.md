@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">👋 Olá! Eu sou o Bruno</h1>
-
 <p align="center">
   🎓 Formado
   👨‍💻 Desenvolvedor Full Stack Jr
